@@ -1,0 +1,5 @@
+Gas Valve Servo connection: 
+Housing- WM8035-ND x1
+Pins- WM2559-ND x4
+
+stepper motor on outer 4 pins. Can use the 24V servo drive in the office for now or can order a smaller unit to put in a small box
